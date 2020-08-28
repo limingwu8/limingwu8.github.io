@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "            "
+title                    : "\t \t"
 title_separator          : "-"
 name                     : &name "Mridul Gupta"
 description              : &description "Research Assistant in VIPER Lab at Purdue University"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/mridulguptaiitr"
   orcid            : "https://orcid.org/0000-0001-6181-1403"
   pinterest        :
   soundcloud       :
