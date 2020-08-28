@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "" "" "" "" "" "" "" "" "" "" ""
+title                    : "Mridul Gupta"
 title_separator          : "-"
 name                     : &name "Mridul Gupta"
 description              : &description "Research Assistant in VIPER Lab at Purdue University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mridul Gupta"
+  name             : #"Mridul Gupta"
   avatar           : "profile.jpg"
   bio              : "Research Assistant in VIPER Lab at Purdue University"
   location         : 
