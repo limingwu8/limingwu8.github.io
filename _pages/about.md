@@ -22,6 +22,6 @@ Mridul Gupta\
 West Lafayette, Indiana 47907-2035\
 USA\
 +1 765-775-9279\
-gupta431(at)purdue(dot)edu
+gupta431@purdue.edu
 
 
