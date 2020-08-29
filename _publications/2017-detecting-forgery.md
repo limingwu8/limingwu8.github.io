@@ -9,5 +9,5 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-981-13-1592-3_67'
 citation: 'Detecting Image Forgery insingle-sensor Multispectral Images, Mridul Gupta, Puneet Goyal, Soft Computing for Problem Solving, 2017 211-221'
 ---
 
-[https://link.springer.com/chapter/10.1007/978-981-13-1592-3_67](Paper)
+[Paper](Paper)
 
