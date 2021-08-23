@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](http://mridulgupta9.github.io/files/Resume_Mridul.pdf)
+[CV](http://limingwu8.github.io/files/CV_Liming.pdf)
