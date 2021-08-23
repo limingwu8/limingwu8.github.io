@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mridul Gupta"
+title                    : "Liming Wu"
 title_separator          : "-"
-name                     : &name "Mridul Gupta"
+name                     : &name "Liming Wu"
 description              : &description "Research Assistant in VIPER Lab at Purdue University"
-url                      : https://mridulgupta9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://limingwu8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mridulgupta9/mridulgupta9.github.io"
+repository               : "limingwu8/limingwu8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mridulgupta9"
+  github           : "limingwu8"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mridulguptaiitr"
-  orcid            : "https://orcid.org/0000-0001-6181-1403"
+  linkedin         : "liming-wu"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-5738-0468"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
