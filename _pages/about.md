@@ -11,13 +11,10 @@ redirect_from:
 I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by [Prof. Edward J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence microscopy image analysis, and I am particularly interested in computer vision and deep learning algorithms.
 
 
-Contact Details
-======
-Liming Wu\
-465 Northwestern Avenue\
-West Lafayette, Indiana 47907-2035, USA\
-+1 765-775-3454\
-wu1114@purdue.edu
+## Publications
+
+* L. Wu, S. Han, A. Chen, P. Salama, K. W. Dunn, E. J. Delp, “RCNN-SliceNet: A Slice and Cluster Ap- proach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2021.
+* A. Chen, L. Wu, S. Han, P. Salama, K. W. Dunn, E. J. Delp, “Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation,” 2021 IEEE International Symposium on Biomedical Imaging (ISBI).
 
 
 
