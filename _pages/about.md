@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Biography"
+excerpt: "Biography"
 author_profile: true
 redirect_from: 
   - /Biography/
@@ -11,7 +11,7 @@ redirect_from:
 I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by [Prof. Edward J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence microscopy image analysis, and I am particularly interested in computer vision and deep learning algorithms. 
 
 # Education
-* **PhD in Electrical and Computer Engineering**
+* **Ph.D. in Electrical and Computer Engineering**
 
   *Purdue University, August 2019 - Present*
 
@@ -33,7 +33,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
   *Alain Chen, Liming Wu, Shuo Han, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, “Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation,” 2021 IEEE International Symposium on Biomedical Imaging (ISBI).* [[pdf]](https://ieeexplore.ieee.org/document/9434149)
 * **Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks**
   
-  *L. Wu, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," M.S. thesis at Purdue University, May 2019.* [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
+  *Liming Wu, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," M.S. thesis at Purdue University, May 2019.* [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
 * **Automated Fetal Brain Segmentation Using Deep Convo- lutional Neural Network**
   
   *Bin Chen, Liming Wu, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," Proceeding of the 27th Annual Meeting of ISMRM, August 2019, Montreal Canada.* [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
