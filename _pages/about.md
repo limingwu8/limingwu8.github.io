@@ -12,15 +12,15 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 # Education
 
-* ### PhD in Electrical and Computer Engineering
+* ## PhD in Electrical and Computer Engineering
 
   *Purdue University, August 2019 - Present*
 
-* ### MSc in Electrical and Computer Engineering
+* ## MSc in Electrical and Computer Engineering
 
   *Purdue University Northwest, August 2017- May 2019*
 
-* ### BSc in Computer Science
+* ## BSc in Computer Science
 
   *Anhui University of Technology, August 2013- June 2017*
 
@@ -28,19 +28,19 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 # Publications
 
-* #### RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images 
+* ## RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images 
 
   *Liming Wu, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, “RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2021.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/CVMI/papers/Wu_RCNN-SliceNet_A_Slice_and_Cluster_Approach_for_Nuclei_Centroid_Detection_CVPRW_2021_paper.pdf)
 
-* ####Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation
+* ## Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation
 
   *Alain Chen, Liming Wu, Shuo Han, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, “Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation,” 2021 IEEE International Symposium on Biomedical Imaging (ISBI).* [[pdf]](Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation)
 
-* #### Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks
+* ## Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks
 
-  *L. Wu, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," M.S. thesis at Purdue University, May 2019.* [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
+  *Liming Wu, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," M.S. thesis at Purdue University, May 2019.* [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
 
-* #### Automated Fetal Brain Segmentation Using Deep Convo- lutional Neural Network
+* ## Automated Fetal Brain Segmentation Using Deep Convo- lutional Neural Network
 
   *Bin Chen, Liming Wu, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," Proceeding of the 27th Annual Meeting of ISMRM, August 2019, Montreal Canada.* [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
 
