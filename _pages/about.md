@@ -17,11 +17,11 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 * **MSc in Electrical and Computer Engineering**
 
-  *Purdue University Northwest, August 2017- May 2019*
+  *Purdue University Northwest, August 2017 - May 2019*
 
 * **BSc in Computer Science**
 
-  *Anhui University of Technology, August 2013- June 2017*
+  *Anhui University of Technology, August 2013 - June 2017*
 
 # Publications
 
