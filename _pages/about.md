@@ -41,6 +41,19 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
   
   *Bin Chen, Liming Wu, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," Proceeding of the 27th Annual Meeting of ISMRM, August 2019, Montreal Canada.* [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
 
+# Internship Experiences
+
+* **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022**
+  
+  *Multimedia group - mixed function depth sensing of structure light images*
+* **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2021 - 08/2021**
+  
+  *Multimedia group - mixed function depth sensing of structure light images*
+* **Summer R&D Intern at PhysIQ, Naperville, IL, 06/2017 - 09/2017**
+  
+  *Photoplethysmogram signal analysis for wearable medical devices*
+
+
 # Contact Details
 Liming Wu\
 465 Northwestern Avenue\
