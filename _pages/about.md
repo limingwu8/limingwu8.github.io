@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by [Prof. Edward J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence microscopy image analysis, and I am particularly interested in computer vision and deep learning algorithms. 
+I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by Professor [Edward J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence microscopy image analysis, and I am particularly interested in computer vision and deep learning algorithms. 
 
 # Education
 * **Ph.D. in Electrical and Computer Engineering**
@@ -25,6 +25,9 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 # Publications
 
+* **An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation**
+  
+  *Liming Wu, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2022.*
 * **RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images**
   
   *Liming Wu, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, “RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, June 2021.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/CVMI/papers/Wu_RCNN-SliceNet_A_Slice_and_Cluster_Approach_for_Nuclei_Centroid_Detection_CVPRW_2021_paper.pdf)
