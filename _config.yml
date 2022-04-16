@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Liming Wu"
 title_separator          : "-"
-name                     : &name "Liming Wu, Ph.D. Candidate"
+name                     : &name "Liming Wu"
 description              : &description "Research Assistant in VIPER Lab at Purdue University"
 url                      : https://limingwu8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liming Wu"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant in VIPER Lab at Purdue University"
+  bio              : "Ph.D. Candicate\nResearch Assistant in VIPER Lab at Purdue University"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
