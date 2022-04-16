@@ -37,7 +37,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 * **Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks**
   
   *Liming Wu, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," M.S. thesis at Purdue University, May 2019.* [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
-* **Automated Fetal Brain Segmentation Using Deep Convo- lutional Neural Network**
+* **Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network**
   
   *Bin Chen, Liming Wu, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," Proceeding of the 27th Annual Meeting of ISMRM, August 2019, Montreal Canada.* [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
 
