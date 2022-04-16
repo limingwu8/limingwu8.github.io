@@ -5,4 +5,4 @@ venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Rec
 date: June 2021
 permalink: /publication/2021-target-detection
 ---
-Liming Wu, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, Edward J. Delp; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021, pp. 3755-3765
+Liming Wu, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, Edward J. Delp
