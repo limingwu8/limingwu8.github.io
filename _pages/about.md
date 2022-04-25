@@ -49,6 +49,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 * **Teaching Assistant, ECE Department, Purdue University Northwest, 09/2018 - 05/2019**
   
   Teaching assistant for ECE152 - Programming for Engineers
+  
   Lab assistant for ECE251 - Object Oriented Programming
 
 
