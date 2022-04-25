@@ -41,6 +41,18 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
   
   Bin Chen, **Liming Wu**, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," *Proceeding of the 27th Annual Meeting of ISMRM*, August 2019, Montreal, Canada. [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
 
+# Teaching Experiences
+
+* **Teaching Assistant, ECE Department, Purdue University, 08/2019 - 12/2019**
+  
+  Teaching assistant for ECE570 - Artificial Intelligence
+* **Teaching Assistant, ECE Department, Purdue University Northwest, 09/2018 - 05/2019**
+  
+  Teaching assistant for ECE152 - Programming for Engineers
+  Lab assistant for ECE251 - Object Oriented Programming
+
+
+
 # Internship Experiences
 
 * **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022**
