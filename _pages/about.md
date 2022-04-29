@@ -27,7 +27,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 + **An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation**
 
-  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA.
+  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.04.28.489938v1)
 + **RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images**
   
   **Liming Wu**, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2021, Nashville, TN. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/CVMI/papers/Wu_RCNN-SliceNet_A_Slice_and_Cluster_Approach_for_Nuclei_Centroid_Detection_CVPRW_2021_paper.pdf)
