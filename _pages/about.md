@@ -27,19 +27,19 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 + **An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation**
 
-  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](https://www.biorxiv.org/content/10.1101/2022.04.28.489938v1)
+  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](10.1101/2022.04.28.489938){:target="_blank"}
 + **RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images**
   
-  **Liming Wu**, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2021, Nashville, TN. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/CVMI/papers/Wu_RCNN-SliceNet_A_Slice_and_Cluster_Approach_for_Nuclei_Centroid_Detection_CVPRW_2021_paper.pdf)
+  **Liming Wu**, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2021, Nashville, TN. [[pdf]](10.1109/CVPRW53098.2021.00416){:target="_blank"}
 + **Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation**
   
-  Alain Chen, **Liming Wu**, Shuo Han, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation," *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2021, Nice, France. [[pdf]](https://ieeexplore.ieee.org/document/9434149)
+  Alain Chen, **Liming Wu**, Shuo Han, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation," *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2021, Nice, France. [[pdf]](10.1109/ISBI48211.2021.9434149){:target="_blank"}
 + **Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks**
   
-  **Liming Wu**, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," *M.S. thesis at Purdue University*, May 2019. [[pdf]](https://hammer.purdue.edu/articles/thesis/Biomedical_Image_Segmentation_and_Object_Detection_Using_Deep_Convolutional_Neural_Networks/8051702)
+  **Liming Wu**, "Biomedical Image Segmentation and Object Detection Using Deep Convolutional Neural Networks," *M.S. thesis at Purdue University*, May 2019. [[pdf]](10.25394/PGS.8051702.v1){:target="_blank"}
 + **Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network**
   
-  Bin Chen, **Liming Wu**, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," *Proceeding of the 27th Annual Meeting of ISMRM*, August 2019, Montreal, Canada. [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html)
+  Bin Chen, **Liming Wu**, Bing Zhang, Simin Liu, and Hua Guo. “Automated Fetal Brain Segmentation Using Deep Convolutional Neural Network," *Proceeding of the 27th Annual Meeting of ISMRM*, August 2019, Montreal, Canada. [[pdf]](http://indexsmart.mirasmart.com/ISMRM2019/PDFfiles/4797.html){:target="_blank"}
 
 # Teaching Experiences
 
