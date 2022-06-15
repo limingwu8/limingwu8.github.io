@@ -25,15 +25,18 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 # Publications
 
++ **NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images**
+
+  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images," *bioRxiv*, June 2022. [[pdf]](https://doi.org/10.1101/2022.06.10.495713){:target="_blank"}
 + **An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation**
 
-  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](https://doi.org/10.1101/2022.04.28.489938){:target="_blank"}
+  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/CVMI/papers/Wu_An_Ensemble_Learning_and_Slice_Fusion_Strategy_for_Three-Dimensional_Nuclei_CVPRW_2022_paper.pdf){:target="_blank"}
 + **DINAVID: A Distributed and Networked Image Analysis System for Volumetric Image Data**
 
   Shuo Han, Alain Chen, Soonam Lee, Chichen Fu, Changye Yang, **Liming Wu**, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "DINAVID: A Distributed and Networked Image Analysis System for Volumetric Image Data," *bioRxiv*, May 2022. [[pdf]](https://doi.org/10.1101/2022.05.11.491511){:target="_blank"}
 + **RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images**
   
-  **Liming Wu**, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2021, Nashville, TN. [[pdf]](https://doi.org/10.1109/CVPRW53098.2021.00416){:target="_blank"}
+  **Liming Wu**, Shuo Han, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "RCNN-SliceNet: A Slice and Cluster Approach for Nuclei Centroid Detection in Three Dimensional Fluorescence Microscopy Images," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2021, Nashville, TN. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021W/CVMI/papers/Wu_RCNN-SliceNet_A_Slice_and_Cluster_Approach_for_Nuclei_Centroid_Detection_CVPRW_2021_paper.pdf){:target="_blank"}
 + **Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation**
   
   Alain Chen, **Liming Wu**, Shuo Han, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "Three Dimensional Non-ellipsoidal Synthetic Nuclei Volume Generation," *Proceedings of the IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2021, Nice, France. [[pdf]](https://doi.org/10.1109/ISBI48211.2021.9434149){:target="_blank"}
