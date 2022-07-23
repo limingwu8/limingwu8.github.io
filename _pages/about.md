@@ -28,6 +28,9 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 + **NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images**
 
   **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images," *bioRxiv*, June 2022. [[pdf]](https://doi.org/10.1101/2022.06.10.495713){:target="_blank"}
++ **3D CentroidNet: Nuclei Centroid Detection With Vector Flow Voting**
+
+  **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "3D CentroidNet: Nuclei Centroid Detection With Vector Flow Voting," *Proceedings of the IEEE International Conference on Image Processing (ICIP)*, October 2022. [[pdf]](https://doi.org/10.1101/2022.07.21.500996){:target="_blank"}
 + **An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation**
 
   **Liming Wu**, Alain Chen, Paul Salama, Kenneth W. Dunn, and Edward J. Delp, "An Ensemble Learning and Slice Fusion Strategy for Three-Dimensional Nuclei Instance Segmentation," *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2022, New Orleans, LA. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/CVMI/papers/Wu_An_Ensemble_Learning_and_Slice_Fusion_Strategy_for_Three-Dimensional_Nuclei_CVPRW_2022_paper.pdf){:target="_blank"}
