@@ -67,14 +67,10 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 * **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022**
   
-  Multimedia group - 3D depth sensing
 * **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2021 - 08/2021**
   
-  Multimedia group - 3D depth sensing
 * **Summer R&D Intern at PhysIQ, Naperville, IL, 06/2017 - 09/2017**
   
-  Photoplethysmogram signal analysis for wearable medical devices
-
 
 # Contact Details
 Liming Wu\
