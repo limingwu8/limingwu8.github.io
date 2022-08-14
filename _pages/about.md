@@ -13,7 +13,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 # Education
 + **Ph.D. in Electrical and Computer Engineering**
 
-  Purdue University, August 2019 - Present
+  Purdue University, August 2019 - December 2022
 
 + **MSc in Electrical and Computer Engineering**
 
