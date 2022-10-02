@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Liming Wu"
   avatar           : "profile.jpg"
-  title            : "Ph.D. Candidate"
-  bio              : "Research Assistant in VIPER Lab at Purdue University"
+  # title            : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate"
   location         : "West Lafayette"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
