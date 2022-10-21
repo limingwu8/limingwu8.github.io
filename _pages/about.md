@@ -76,7 +76,7 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
   
 
 # Contact Details
-L. Wu\
+Liming Wu\
 465 Northwestern Avenue\
 West Lafayette, Indiana 47907-2035, USA\
 +1 765-775-3454\
