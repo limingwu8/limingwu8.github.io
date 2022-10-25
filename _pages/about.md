@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by Professor [E. J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence [microscopy image analysis](http://www.microscopy-purdue.net), and I am particularly interested in computer vision and deep learning algorithms.
+I joined the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at Purdue University as a Ph.D. student in Fall 2019. I work as a research assistant at the [Video and Image Processing Laboratory (VIPER)](https://engineering.purdue.edu/~ips/) advised by Professor [Edward. J. Delp](https://engineering.purdue.edu/~ace/). Before that I obtained my MS degree in the Department of Electrical and Computer Engineering at Purdue University Northwest in 2019. My research focuses on three-dimensional fluorescence [microscopy image analysis](http://www.microscopy-purdue.net), and I am particularly interested in computer vision and deep learning algorithms.
 
 # Education
 + **Ph.D. in Electrical and Computer Engineering**
