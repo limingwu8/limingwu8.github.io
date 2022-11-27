@@ -13,11 +13,11 @@ I am currently a software engineer at Google, Inc. I joined the [School of Elect
 Before that I obtained my M.S. degree in the Department of Electrical and Computer Engineering at [Purdue University Northwest](https://www.pnw.edu) in May 2019. 
 
 # Education
-+ Ph.D. in Electrical and Computer Engineering, Purdue University, August 2019 - December 2022
++ Ph.D. in Electrical and Computer Engineering, Purdue University, 08/2019 - 12/2022
 
-+ MSc in Electrical and Computer Engineering, Purdue University Northwest, August 2017 - May 2019
++ MSc in Electrical and Computer Engineering, Purdue University Northwest, 08/2017 - 05/2019
 
-+ BSc in Computer Science, Anhui University of Technology, August 2013 - June 2017
++ BSc in Computer Science, Anhui University of Technology, 08/2013 - 06/2017
 
 # Publications
 
