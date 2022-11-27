@@ -66,7 +66,9 @@ I joined the [School of Electrical and Computer Engineering](https://engineering
 
 
 
-# Internship Experiences
+# Industrial Experiences
+
+* **Software Engineer at Google, Mountain View, CA, 11/2022 - present**
 
 * **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022**
   
