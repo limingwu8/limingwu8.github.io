@@ -13,11 +13,17 @@ I am currently a software engineer at Google, Inc. I joined the [School of Elect
 Before that I obtained my M.S. degree in the Department of Electrical and Computer Engineering at [Purdue University Northwest](https://www.pnw.edu) in May 2019. 
 
 # Education
-+ Ph.D. in Electrical and Computer Engineering, Purdue University, 08/2019 - 12/2022
++ **Ph.D. in Electrical and Computer Engineering**
 
-+ MSc in Electrical and Computer Engineering, Purdue University Northwest, 08/2017 - 05/2019
+  Purdue University, 08/2019 - 12/2022
 
-+ BSc in Computer Science, Anhui University of Technology, 08/2013 - 06/2017
++ **MSc in Electrical and Computer Engineering**
+
+  Purdue University Northwest, 08/2017 - 05/2019
+
++ **BSc in Computer Science**
+
+  Anhui University of Technology, 08/2013 - 06/2017
 
 # Publications
 
@@ -46,13 +52,13 @@ Before that I obtained my M.S. degree in the Department of Electrical and Comput
 
 # Industrial Experiences
 
-* **Software Engineer at Google, Mountain View, CA, 11/2022 - present**
+* Software Engineer at Google, Mountain View, CA, 11/2022 - present
 
-* **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022**
+* Summer R&D Intern at Qualcomm, San Diego, CA, 05/2022 - 08/2022
   
-* **Summer R&D Intern at Qualcomm, San Diego, CA, 05/2021 - 08/2021**
+* Summer R&D Intern at Qualcomm, San Diego, CA, 05/2021 - 08/2021
   
-* **Summer R&D Intern at PhysIQ, Naperville, IL, 06/2017 - 09/2017**
+* Summer R&D Intern at PhysIQ, Naperville, IL, 06/2017 - 09/2017
   
 
 # Contact Details
