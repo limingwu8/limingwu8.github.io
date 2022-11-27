@@ -27,9 +27,7 @@ Before that I obtained my M.S. degree in the Department of Electrical and Comput
 
 # Publications
 
-+ **3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes**
-
-  A. Chen, **L. Wu**, S. Winfree, K. Dunn, P. Salama, and E. J. Delp, "3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes," bioRxiv, September 2022. [[pdf]](https://doi.org/10.1101/2022.09.26.509542){:target="_blank"}
++ A. Chen, **L. Wu**, S. Winfree, K. Dunn, P. Salama, and E. J. Delp, "3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes," bioRxiv, September 2022. [[pdf]](https://doi.org/10.1101/2022.09.26.509542){:target="_blank"}
 + **NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images**
 
   **L. Wu**, A. Chen, P. Salama, K. W. Dunn, and E. J. Delp, "NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images," *bioRxiv*, June 2022. [[pdf]](https://doi.org/10.1101/2022.06.10.495713){:target="_blank"}
