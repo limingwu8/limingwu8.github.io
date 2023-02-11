@@ -67,5 +67,4 @@ Before that I obtained my M.S. degree in the Department of Electrical and Comput
 Liming Wu\
 465 Northwestern Avenue\
 West Lafayette, Indiana 47907-2035, USA\
-+1 765-775-3454\
 wu1114@purdue.edu
