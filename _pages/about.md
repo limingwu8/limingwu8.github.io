@@ -27,9 +27,9 @@ Before that I obtained my M.S. degree in the Department of Electrical and Comput
 
 # Publications
 
-+ **L. Wu**, "NISNet3D: three‑dimensional nuclear synthesis and instance segmentation for fluorescence microscopy images," *Scientific Reports*, June 2023. [[pdf]](https://www.nature.com/articles/s41598-023-36243-9){:target="_blank"}
++ **L. Wu**, A. Chen, P. Salama, S. Winfree, K. W. Dunn, and E. J. Delp, "NISNet3D: three‑dimensional nuclear synthesis and instance segmentation for fluorescence microscopy images," *Scientific Reports*, June 2023. [[pdf]](https://www.nature.com/articles/s41598-023-36243-9){:target="_blank"}
++ **L. Wu**, A. Chen, P. Salama, K. W. Dunn, and E. J. Delp, "Three-Dimensional Nuclei Synthesis For Fluorescence Microscopy Image Analysis," *Proceedings of the IEEE International Symposium on Biomedical Imaging*, April 2023, Cartagena de Indias, Colombia.
 + **L. Wu**, "Three-Dimensional Fluorescence Microscopy Image Synthesis and Analysis Using Machine Learning," *Ph.D. dissertation at Purdue University*, February 2023. [[pdf]](https://doi.org/10.25394/PGS.22031780.v1){:target="_blank"}
-+ **L. Wu**, A. Chen, P. Salama, K. W. Dunn, and E. J. Delp, "Three-Dimensional Nuclei Synthesis For Fluorescence Microscopy Image Analysis," *Proceedings of the IEEE International Symposium on Biomedical Imaging*, April 2023.
 + A. Chen, **L. Wu**, S. Winfree, K. Dunn, P. Salama, and E. J. Delp, "3D Ground Truth Annotations of Nuclei in 3D Microscopy Volumes," bioRxiv, September 2022. [[pdf]](https://doi.org/10.1101/2022.09.26.509542){:target="_blank"}
 + **L. Wu**, A. Chen, P. Salama, K. W. Dunn, and E. J. Delp, "NISNet3D: Three-Dimensional Nuclear Synthesis and Instance Segmentation for Fluorescence Microscopy Images," *bioRxiv*, June 2022. [[pdf]](https://doi.org/10.1101/2022.06.10.495713){:target="_blank"}
 + **L. Wu**, A. Chen, P. Salama, K. W. Dunn, and E. J. Delp, "3D CentroidNet: Nuclei Centroid Detection With Vector Flow Voting," *Proceedings of the IEEE International Conference on Image Processing (ICIP)*, October 2022, Bordeaux, France. [[pdf]](https://doi.org/10.1101/2022.07.21.500996){:target="_blank"}
